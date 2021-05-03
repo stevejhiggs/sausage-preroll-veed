@@ -1,0 +1,23 @@
+{
+  "name": "sausage-preroll-veed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/stevejhiggs/sausage-preroll-veed.git",
+  "author": "Steve Higgs <stevejhiggs@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.1.0"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  },
+  "prettier": {
+    "printWidth": 150,
+    "trailingComma": "none",
+    "singleQuote": true
+  }
+}
